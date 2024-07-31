@@ -129,13 +129,8 @@ body {
     }
 
     .cabecalho__menu {
-        justify-content: space-between;
-        gap: auto;
-    }
-
-    .cabecalho__menu__link {
-        display: flex;
         justify-content: center;
+        gap: auto;
     }
 
     .apresentacao {
