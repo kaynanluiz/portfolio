@@ -20,6 +20,7 @@ body {
     background-color: var(--cor-secundaria);
     color: var(--cor-quarta);
     box-sizing: border-box;
+    min-width: 460px;
 }
 
 .linguagens-destaque {
@@ -135,7 +136,6 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
     }
     .apresentacao__conteudo {
         width: auto;
