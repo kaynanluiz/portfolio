@@ -126,11 +126,11 @@ body {
 
 @media (max-width: 1200px) {
     .cabecalho {
-        padding: 10%;
+        padding: auto;
     }
 
     .cabecalho__menu {
-        justify-content: space-around;
+        justify-content: space-between;
         display: flex;
         width: auto;
     }
