@@ -133,7 +133,8 @@ body {
     }
 
     .cabecalho__menu__link {
-        justify-content: space-between;
+        display: flex;
+        justify-content: center;
     }
 
     .apresentacao {
