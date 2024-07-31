@@ -136,8 +136,7 @@ body {
 
     .cabecalho__menu__link {
         display: flex;
-        width: auto;
-        height: auto;
+        justify-content:space-between;
     }
 
     .apresentacao {
