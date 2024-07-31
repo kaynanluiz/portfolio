@@ -123,21 +123,13 @@ body {
     text-align: center;
     font-weight: 400;
 }
-
 @media (max-width: 1200px) {
     .cabecalho {
-        padding: 5%;
+        padding: 10%;
     }
 
     .cabecalho__menu {
-        justify-content: space-between;
-        display: flex;
-        width: 50%;
-    }
-
-    .cabecalho__menu__link {
-        display: flex;
-        justify-content:space-between;
+        justify-content: center;
     }
 
     .apresentacao {
