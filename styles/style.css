@@ -12,6 +12,7 @@
 }
 
 * {
+    min-width: 460px;
     margin: 0;
     padding: 0;
 }
