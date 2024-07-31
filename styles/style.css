@@ -135,6 +135,11 @@ body {
         text-align: center;
     }
 
+    .cabecalho__menu__link {
+        display: flex;
+        width: auto;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
