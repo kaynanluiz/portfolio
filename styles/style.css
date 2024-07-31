@@ -129,7 +129,7 @@ body {
     }
 
     .cabecalho__menu {
-        justify-content: center;
+        justify-content: space-around;
         display: flex;
         width: auto;
         text-align: center;
